@@ -1,2 +1,2 @@
-email :
-gitID :
+email : lsm0930000@naver.com
+gitID : naversomin
