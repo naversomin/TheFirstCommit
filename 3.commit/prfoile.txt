@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sm.kongju@gmail.com
+gitID : naversomin
